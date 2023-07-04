@@ -1,0 +1,84 @@
+<resources>
+    <string name="app_name">Pizza</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="add_pizza_tab">Add Pizza</string>
+    <string name="store_orders">Store Orders</string>
+    <string name="ny_style_image_name">NY Style</string>
+    <string name="order_deluxe_pizza">Order Deluxe Pizza</string>
+    <string name="hawaiian_pizza_image_name">Hawaiian Pizza</string>
+    <string name="order_hawaiian_pizza">Order Hawaiian Pizza</string>
+    <string name="chicago_style_image_name">Chicago Style</string>
+    <string name="order_pepperoni_pizza">Order Pepperoni Pizza</string>
+    <string name="current_order_image">Current Order</string>
+    <string name="current_order">Current Order</string>
+    <string name="customize_pizza">Customize Pizza</string>
+    <string name="customize_pizza_image">Custom Pizza Image</string>
+    <string name="add_pizza_to_order">Order Pizza</string>
+    <string name="order_total">Order Total</string>
+    <string name="order_number">Order Number:</string>
+    <string name="price">Price</string>
+    <string name="subtotal">Subtotal</string>
+    <string name="sales_tax">Sales tax</string>
+    <string name="order_total_label">Order total</string>
+    <string name="toppings">Toppings</string>
+    <string name="dollar_sign">$</string>
+    <string name="clear_order">Clear Order</string>
+    <string name="place_order">Place order</string>
+    <string name="cancel_order">Cancel Order</string>
+    <string name="delete_pizza">Delete pizza</string>
+    <string name="pizza_deleted">Pizza(s) deleted.</string>
+    <string name="order_placed">Order placed.</string>
+    <string name="delete_selected_pizzas">Delete selected pizza(s)?</string>
+    <string name="clear_entire_order">Delete all pizza(s) from order?</string>
+    <string name="pizza_deleted_from_order">Pizza(s) deleted from the order.</string>
+    <string name="cleared_entire_order">Cleared entire order.</string>
+    <string name="order_cancelled">Order cancelled.</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+
+    <string name="chicago_DeepDish_crust">Crust: DeepDish</string>
+    <string name="chicago_Pan_crust">Crust: Pan</string>
+    <string name="chicago_Stuffed_crust">Crust: Stuffed</string>
+    <string name="ny_HandTossed_crust">Crust: HandTossed</string>
+    <string name="ny_Brooklyn_crust">Crust: Brooklyn</string>
+    <string name="ny_Thin_crust">Crust: Thin</string>
+
+    <string-array name="pizza_size_options">
+        <item>Small</item>
+        <item>Medium</item>
+        <item>Large</item>
+    </string-array>
+
+    <string-array name="pizza_toppings">
+        <item>Sausage</item>
+        <item>Pepperoni</item>
+        <item>GreenPepper</item>
+        <item>Onion</item>
+        <item>Mushroom</item>
+        <item>BBQChicken</item>
+        <item>Provolone</item>
+        <item>Cheddar</item>
+        <item>Beef</item>
+        <item>Ham</item>
+        <item>Jalapeno</item>
+        <item>Olive</item>
+        <item>Pineapple</item>
+    </string-array>
+
+    <string-array name="pizza_flavors">
+        <item>BuildYourOwn</item>
+        <item>Deluxe</item>
+        <item>BBQChicken</item>
+        <item>Meatzza</item>
+        <item>BuildYourOwn</item>
+    </string-array>
+</resources>
